@@ -1,5 +1,5 @@
 <?php
-$filename = "https://gitcode.net/m0_66964652/img/-/raw/main/cover/link.txt";
+$filename = "link.txt";
 if(!file_exists($filename)){
     die('文件不存在');
 }
