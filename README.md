@@ -1,4 +1,4 @@
-使用方法
+**安装步骤**
 
 1. [fork 本项目](https://github.com/ifwwww/nextjs-random-image-api/fork)
 2. 注册[vercel](https://vercel.com/signup)并登录绑定自己的 github 账户
@@ -7,7 +7,7 @@
 5. Deploy
    <img src="https://raw.githubusercontent.com/ifwwww/nextjs-random-image-api/main/nextjs-random-image-api.png"/>
 
-增加图片请直接修改`data`目录下`imgurl.json`文件，请按照规范格式添加
+增加图片需要修改`data`目录下`imgurl.json`文件，请按照规范格式添加
 
 ```
 [
