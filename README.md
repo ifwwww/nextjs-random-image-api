@@ -7,7 +7,7 @@
 5. Deploy
    <img src="https://raw.githubusercontent.com/ifwwww/nextjs-random-image-api/main/nextjs-random-image-api.png"/>
 6. 访问[https://nextjs-random-image-api.vercel.app/api/img](/)
-   这里请访问您部署完成后 vercel 生成的域名，点击此链接无效
+   这里请访问您部署完成后 vercel 生成的域名 + /api/img ，点击此链接无效
 
 增加图片需要修改`data`目录下`imgurl.json`文件，请按照规范格式添加
 
